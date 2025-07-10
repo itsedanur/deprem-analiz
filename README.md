@@ -21,5 +21,7 @@ python deprem.py
 - Harita üzerinde her deprem daire olarak gösterilir.
 - Popup ile yer, büyüklük ve derinlik bilgisi sunulur.
 
+- http://127.0.0.1:5500/depremler_haritas%C4%B1.html
+
 Eda Nur Unal
 
