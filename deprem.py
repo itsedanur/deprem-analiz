@@ -1,7 +1,9 @@
-﻿import folium.map
+import folium.map
 import pandas as pd
 
-df = pd.read_excel('deprem.xlsx')
+df = pd.read_csv('deprem.csv', delimiter=';')
+
+
 #ilk bir kaç satırı görüntüleyelim
 # print("İlk 5 Satır:")
 # print(df.head())
