@@ -4,7 +4,7 @@ Bu proje, Türkiye'deki depremleri analiz eder ve interaktif harita üzerinde g�
 
 ##  Dosyalar
 - `deprem.py` → Verileri işler, harita üretir.
-- `deprem.xlsx` → Deprem verisi (Excel formatında).
+- `deprem.csv` → Deprem verisi.
 - `depremler_haritası.html` → Çıktı haritası (folium ile oluşturulmuş).
 
 ##  Nasıl Çalıştırılır?
